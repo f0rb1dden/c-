@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex3thetwoloops\ex3thetwoloops\bin\Debug\ex3thetwoloops.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex3thetwoloops\ex3thetwoloops\bin\Debug\ex3thetwoloops.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex3thetwoloops\ex3thetwoloops\bin\Debug\ex3thetwoloops.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex3thetwoloops\ex3thetwoloops\obj\Debug\ex3thetwoloops.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex3thetwoloops\ex3thetwoloops\obj\Debug\ex3thetwoloops.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex3thetwoloops\ex3thetwoloops\obj\Debug\ex3thetwoloops.pdb

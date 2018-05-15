@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex2PresidentSwitch\ex2PresidentSwitch\bin\Debug\ex2PresidentSwitch.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex2PresidentSwitch\ex2PresidentSwitch\obj\Debug\ex2PresidentSwitch.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex2PresidentSwitch\ex2PresidentSwitch\bin\Debug\ex2PresidentSwitch.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex2PresidentSwitch\ex2PresidentSwitch\bin\Debug\ex2PresidentSwitch.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex2PresidentSwitch\ex2PresidentSwitch\obj\Debug\ex2PresidentSwitch.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex2PresidentSwitch\ex2PresidentSwitch\obj\Debug\ex2PresidentSwitch.pdb

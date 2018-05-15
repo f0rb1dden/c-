@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex1GuessTheNumber\ex1GuessTheNumber\bin\Debug\ex1GuessTheNumber.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex1GuessTheNumber\ex1GuessTheNumber\bin\Debug\ex1GuessTheNumber.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex1GuessTheNumber\ex1GuessTheNumber\bin\Debug\ex1GuessTheNumber.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex1GuessTheNumber\ex1GuessTheNumber\obj\Debug\ex1GuessTheNumber.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex1GuessTheNumber\ex1GuessTheNumber\obj\Debug\ex1GuessTheNumber.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex1GuessTheNumber\ex1GuessTheNumber\obj\Debug\ex1GuessTheNumber.pdb
