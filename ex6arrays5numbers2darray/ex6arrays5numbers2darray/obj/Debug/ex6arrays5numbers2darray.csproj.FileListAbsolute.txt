@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex6arrays5numbers2darray\ex6arrays5numbers2darray\bin\Debug\ex6arrays5numbers2darray.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex6arrays5numbers2darray\ex6arrays5numbers2darray\bin\Debug\ex6arrays5numbers2darray.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex6arrays5numbers2darray\ex6arrays5numbers2darray\bin\Debug\ex6arrays5numbers2darray.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex6arrays5numbers2darray\ex6arrays5numbers2darray\obj\Debug\ex6arrays5numbers2darray.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex6arrays5numbers2darray\ex6arrays5numbers2darray\obj\Debug\ex6arrays5numbers2darray.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex6arrays5numbers2darray\ex6arrays5numbers2darray\obj\Debug\ex6arrays5numbers2darray.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex4forloop\ex4forloop\bin\Debug\ex4forloop.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex4forloop\ex4forloop\obj\Debug\ex4forloop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex4forloop\ex4forloop\bin\Debug\ex4forloop.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex4forloop\ex4forloop\bin\Debug\ex4forloop.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex4forloop\ex4forloop\obj\Debug\ex4forloop.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex4forloop\ex4forloop\obj\Debug\ex4forloop.pdb

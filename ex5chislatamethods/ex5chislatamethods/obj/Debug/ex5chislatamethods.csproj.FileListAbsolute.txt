@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex5chislatamethods\ex5chislatamethods\bin\Debug\ex5chislatamethods.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex5chislatamethods\ex5chislatamethods\bin\Debug\ex5chislatamethods.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex5chislatamethods\ex5chislatamethods\bin\Debug\ex5chislatamethods.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex5chislatamethods\ex5chislatamethods\obj\Debug\ex5chislatamethods.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex5chislatamethods\ex5chislatamethods\obj\Debug\ex5chislatamethods.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex5chislatamethods\ex5chislatamethods\obj\Debug\ex5chislatamethods.pdb
